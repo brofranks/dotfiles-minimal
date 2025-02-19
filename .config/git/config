@@ -1,0 +1,14 @@
+[user]
+  email = brody@franks.id.au
+  name = Brody Franks
+[alias]
+  a   = add
+  br  = "branch -vv"
+  ci  = commit
+  co  = checkout
+  df  = diff
+  re  = "remote -v"
+  reb = "rebase -r"
+  st  = status
+[init]
+  defaultBranch = main
