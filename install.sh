@@ -2,7 +2,7 @@
 
 set -e
 
-# install -v .zshrc ~/.zshrc
-# install -v .zprofile ~/.zprofile
+# install -v .bashrc ~/.bashrc
+install -v .bash_aliases ~/.bash_aliases
 
 cp -r .config --no-target-directory ~/.config
